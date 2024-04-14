@@ -11,3 +11,7 @@
 var myVar = "Hello, world!";
 var firstname ="Abdul";
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
